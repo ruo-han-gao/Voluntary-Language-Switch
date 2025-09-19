@@ -1,5 +1,5 @@
 # Voluntary-Language-Switch
-Project for lab rotation cognition and knowledge at RPTU
+Project for lab rotation Cognition and Knowledge at RPTU
 
 ## 1. Data preprocessing
 
