@@ -26,11 +26,11 @@ The content of the audio files are first analyzed using Python (*speech_rec.py* 
 
 Note: these two methods worked in a complementory way with the first one being more efficient and accurate. Of course, not all the audio files are accurately recognized. So, a mannual appraoch was adopted afterwards for the inaccurate ones.
 
-### 1.3 Orgnizing data
+### 1.3 Organizing data
 
 <span style="color:tomato">**vls_preproc.R**</span> was used to combine subject files, chronset files, and speech output, as well as rescale rating and obtain type of response etc.
 
-- Combine all 15 subject files
+- Combine all subject files
 - Merge the RT from chronset files to main dataframe
 - Rename and re-scale the participant rating responses
 - Merge speech recognization outputs to main df
