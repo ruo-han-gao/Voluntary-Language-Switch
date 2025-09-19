@@ -316,7 +316,7 @@ qqline(resid(loglmer_rt7))
 anova(loglmer_rt7)
 summary(loglmer_rt7)
 
-pairs(emmeans(loglmer_rt6, ~ valence * language * type, adjust="tukey",
+pairs(emmeans(loglmer_rt7, ~ valence * language * type, adjust="tukey",
               lmerTest.limit = 5000, 
               pbkrtest.limit = 5000))
 
