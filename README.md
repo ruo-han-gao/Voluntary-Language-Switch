@@ -1,4 +1,4 @@
-# Voluntary-Language-Switch
+# The role of emotional valence in voluntary language switching and reaction time
 Project for lab rotation Cognition and Knowledge at RPTU
 
 ## 1. Data preprocessing
